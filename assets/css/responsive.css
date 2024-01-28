@@ -1,0 +1,509 @@
+@media (min-width: 384px) {
+  .navbar-brand {
+    max-width: 200px;
+  }
+}
+@media (min-width: 480px) {
+  .navbar-brand {
+    max-width: 250px;
+  }
+}
+@media (min-width: 576px) {
+  .navbar {
+    padding-top: 3rem;
+  }
+  .navbar-brand {
+    max-width: 280px;
+  }
+}
+@media (min-width: 768px) {
+  .navbar-brand {
+    max-width: 300px;
+  }
+}
+@media (min-width: 992px) {
+  .dropdown:hover .dropdown-menu {
+    display: block;
+  }
+}
+@media (min-width: 1200px) {
+  .navbar {
+    padding-top: 3.8rem;
+    padding-bottom: 3.8rem;
+  }
+}
+@media (min-width: 1300px) {
+  li.nav-item {
+    margin-right: 1rem;
+  }
+}
+@media (max-width: 1530.98px) {
+  .our-markets .parallax-bg {
+    background-size: 75% auto;
+  }
+}
+@media (max-width: 1270.98px) {
+  .our-markets .parallax-bg {
+    background-size: 80% auto;
+  }
+}
+@media (max-width: 1199.98px) {
+  .dropdown-menu {
+    padding-top: 3rem;
+  }
+  .big-title {
+    font-size: 7rem;
+  }
+  .welcome-video:not(.get-in-touch) {
+    margin-top: 101.61px;
+  }
+  .complex-exterior .parallax-img {
+    max-width: 700px;
+    top: 100%;
+  }
+  .relationship-driven .rd-video {
+    top: 101.61px;
+  }
+  .services {
+    padding-top: 12rem;
+    padding-bottom: 11rem;
+  }
+  .testimonial .container {
+    padding-left: 6rem;
+    padding-right: 6rem;
+  }
+  .testimonial .title-font {
+    padding-top: 6rem;
+    padding-bottom: 4rem;
+    padding-left: 1.8rem;
+    padding-right: 1.8rem;
+  }
+  .scrolling-text {
+    min-height: 900px;
+    margin-top: 8.5rem;
+  }
+  .scrolling-text h2 {
+    font-size: 9rem;
+  }
+  .our-markets .parallax-bg {
+    background-size: cover;
+  }
+  .our-markets .custom-accordion .accordion__item .accordion__content p {
+    max-width: 600px;
+  }
+  .featured-slider .swiper-button-next,
+  .featured-slider .swiper-button-prev {
+    max-width: 65px;
+  }
+  .get-in-touch {
+    margin-top: 10rem;
+  }
+  footer .copyright {
+    margin-top: 7rem;
+  }
+}
+@media (max-width: 991.98px) {
+  .dropdown-menu {
+    margin-top: 5px;
+    margin-left: 0;
+    border: 1px solid var(--primary-color);
+    margin-bottom: 5px;
+    padding-top: 0;
+  }
+  .dropdown-menu li:first-child {
+    border-top: 0;
+  }
+  .text-12 {
+    font-size: 2.9rem;
+  }
+  .big-title {
+    font-size: 6rem;
+  }
+  .navbar-collapse {
+    padding-top: 2rem;
+  }
+  li.nav-item {
+    margin-bottom: 0.7rem;
+  }
+  .button-1 {
+    padding: 1.4rem 1.8rem;
+    padding-right: 8.5rem;
+  }
+  .complex-exterior {
+    padding-top: 10rem;
+  }
+  .complex-exterior .parallax-img {
+    right: 0;
+    max-width: 580px;
+  }
+  .complex-exterior .end {
+    margin-top: 40rem;
+  }
+  .complex-exterior .end .position-absolute {
+    right: -50%;
+  }
+  .testimonial {
+    padding-top: 7rem;
+  }
+  .scrolling-text {
+    min-height: 800px;
+  }
+  .scrolling-text h2 {
+    font-size: 9rem;
+  }
+  .our-markets {
+    padding-top: 10rem;
+    padding-bottom: 9rem;
+  }
+  .our-markets .custom-accordion .accordion__item {
+    padding-top: 2.8rem;
+    padding-bottom: 2.8rem;
+  }
+  .our-markets .bottom h3 {
+    font-size: 3.5rem;
+  }
+  .featured-slider .swiper-button-next,
+  .featured-slider .swiper-button-prev {
+    max-width: 55px;
+  }
+  .featured-slider .swiper-pagination {
+    bottom: 45px;
+  }
+  .featured-slider .featured-content {
+    bottom: 2.5rem;
+  }
+  .featured-slider .featured-content h3 {
+    font-size: 3rem;
+  }
+  .featured-slider .featured-content p {
+    font-size: 1.6rem;
+  }
+  .featured-slider .owl-dots {
+    bottom: 16px;
+    padding-bottom: 1.5rem;
+    padding-top: 0.6rem;
+  }
+  .featured-slider .owl-nav button {
+    max-width: 55px;
+  }
+  .get-in-touch {
+    margin-top: 8rem;
+  }
+  .get-in-touch .container {
+    min-height: 575px;
+  }
+  footer [class*='col-'] {
+    margin-bottom: 5rem;
+  }
+  footer .copyright {
+    margin-top: 4rem;
+  }
+}
+@media (max-width: 850.98px) {
+  .complex-exterior {
+    padding-bottom: 9rem;
+  }
+  .complex-exterior .end {
+    margin-top: 28rem;
+    transform-origin: left top;
+    transform: scale(0.8);
+  }
+  .featured-slider .featured-content {
+    background-color: rgba(13, 75, 119, 0.85);
+    padding: 2.4rem 2.7rem 2.4rem;
+    border-radius: 12px;
+    bottom: 1.5rem;
+  }
+  .featured-slider .swiper-button-prev {
+    left: 15px;
+  }
+  .featured-slider .swiper-button-next {
+    right: 15px;
+  }
+  .featured-slider .swiper-button-next,
+  .featured-slider .swiper-button-prev {
+    max-width: 45px;
+  }
+  .featured-slider .featured-content.desktop {
+    display: none;
+  }
+  .featured-slider .featured-content.mobile {
+    display: block;
+  }
+
+  .featured-slider .swiper-pagination {
+    display: none;
+  }
+  .featured-slider .featured-content > a {
+    right: 1.7rem;
+    transform: translateY(-50%) scale(0.75);
+  }
+}
+@media (max-width: 767.98px) {
+  .text-12 {
+    font-size: 2.8rem;
+  }
+  .big-title {
+    font-size: 5.2rem;
+  }
+  .welcome-video .swiper-1 {
+    height: 300px;
+  }
+  .welcome-video:not(.get-in-touch) {
+    margin-top: 98.59px;
+  }
+  .testimonial {
+    padding-top: 5.5rem;
+  }
+  .testimonial .container {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+  .complex-exterior {
+    padding-bottom: 0;
+  }
+  .complex-exterior .end {
+    transform: scale(0.7);
+    margin-top: 20rem;
+  }
+  .relationship-driven .rd-video {
+    top: 98.59px;
+  }
+  .services {
+    padding-top: 8.5rem;
+    padding-bottom: 8.5rem;
+  }
+  .services .parallax {
+    width: 100%;
+    background-position: 0 0;
+  }
+  .services .title {
+    min-height: 305px;
+  }
+  .scrolling-text {
+    min-height: 700px;
+  }
+  .scrolling-text h2 {
+    font-size: 8rem;
+  }
+  .our-markets {
+    padding-top: 8rem;
+    padding-bottom: 7.5rem;
+  }
+  .our-markets .top h3 {
+    font-size: 5rem;
+  }
+  .our-markets .bottom h3 {
+    font-size: 2.8rem;
+  }
+  .featured-slider .feature-btn-wrapper a {
+    padding: 1.3rem 2.2rem;
+    font-size: 1.4rem;
+  }
+  .get-in-touch .container {
+    min-height: 600px;
+  }
+  footer .container {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+@media (max-width: 700.98px) {
+  .featured-slider .featured-content {
+    bottom: -22rem;
+    width: calc(100% - 28px);
+  }
+  .featured-slider .featured-content > a {
+    position: relative !important;
+    margin-left: 1rem;
+    transform: scale(0.75);
+    margin-top: 1.5rem;
+  }
+  .featured-slider .featured-content > a:hover {
+    margin-left: 0.4rem;
+  }
+  .get-in-touch {
+    margin-top: 27rem;
+  }
+}
+@media (max-width: 605.98px) {
+  .complex-exterior {
+    margin-bottom: -10rem;
+  }
+  .complex-exterior .end {
+    transform: scale(0.6);
+    margin-top: 15rem;
+  }
+}
+@media (max-width: 575.98px) {
+  .long-arrow-icon {
+    transform: scale(0.7, 0.68);
+  }
+  .welcome-video .swiper-1 {
+    height: 250px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  .owl-nav button {
+    max-width: 35px !important;
+  }
+  .text-12 {
+    font-size: 2.7rem;
+  }
+  .big-title {
+    font-size: 4.2rem;
+  }
+  .title-font {
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+  }
+  .welcome-video:not(.get-in-touch) {
+    margin-top: 90.05px;
+  }
+  .welcome-video video {
+    height: 400px;
+  }
+  .complex-exterior {
+    margin-bottom: -8rem;
+  }
+  .complex-exterior h3 {
+    font-size: 4.45rem;
+  }
+  .complex-exterior .end {
+    margin-top: 12rem;
+  }
+  .relationship-driven .rd-video {
+    top: 90.05px;
+  }
+  .services .box-back h3 {
+    font-size: 4.6rem;
+  }
+  .services .btn {
+    padding: 1rem 1.8rem;
+    padding-right: 0.7rem;
+  }
+  .services .btn h4 {
+    font-size: 3rem;
+  }
+  .testimonial .container {
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+    padding-top: 7rem;
+  }
+  .scrolling-text {
+    min-height: 600px;
+    margin-top: 5.5rem;
+  }
+
+  .scrolling-text .bg-image {
+    height: calc(100% - 80px);
+  }
+  .scrolling-text h2 {
+    font-size: 6rem;
+  }
+  .our-markets .top {
+    padding: 3.2rem 3.2rem;
+    padding-top: 2.8rem;
+  }
+  .our-markets .top h3 {
+    font-size: 4.5rem;
+    line-height: 1.1;
+  }
+  .get-in-touch .container {
+    min-height: 500px;
+  }
+  .featured-slider .fs-item img {
+    border-radius: 1.1rem;
+  }
+  .featured-slider .featured-content > a {
+    margin-top: 1.2rem;
+    margin-bottom: -0.5rem;
+  }
+  .featured-slider .featured-content > a:hover {
+    margin-left: 0.4rem;
+  }
+  footer {
+    padding-top: 8rem;
+  }
+  footer .footer-logo {
+    max-width: 270px;
+    margin-bottom: 5rem;
+  }
+}
+@media (max-width: 479.98px) {
+  .text-12 {
+    font-size: 2.5rem;
+  }
+  .big-title {
+    font-size: 3.5rem;
+  }
+  .welcome-video:not(.get-in-touch) {
+    margin-top: 82.48px;
+  }
+  .relationship-driven .rd-video {
+    top: 82.48px;
+  }
+  .relationship-driven .rd-video video {
+    height: 400px;
+  }
+  .services .btn {
+    left: 1.8rem;
+    right: 1.8rem;
+  }
+  .complex-exterior {
+    margin-bottom: -6rem;
+  }
+  .complex-exterior .end {
+    margin-top: 10rem;
+  }
+  .relationship-driven .rd-content > div .rd-content .big-title {
+    font-size: 3.5rem;
+  }
+  .relationship-driven .rd-content > div .rd-content .text-12 {
+    font-size: 2.1rem;
+  }
+  .relationship-driven .rd-content > div .rd-content > div {
+    margin-top: 10rem;
+  }
+  .relationship-driven .scrolling-text {
+    min-height: 50rem;
+  }
+  .relationship-driven .scrolling-text h2 {
+    font-size: 6rem;
+    margin-top: 4.5rem;
+  }
+  .relationship-driven .testimonial .container {
+    padding-left: 2.8rem;
+    padding-right: 2.8rem;
+  }
+  .relationship-driven .featured-slider .feature-btn-wrapper a {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+  }
+  .relationship-driven .get-in-touch .container {
+    min-height: 450px;
+  }
+}
+@media (max-width: 420.98px) {
+  .featured-slider .featured-content h3 {
+    font-size: 2.65rem;
+  }
+  .featured-slider .featured-content p {
+    font-size: 1.5rem;
+  }
+}
+@media (max-width: 383.98px) {
+  .welcome-video:not(.get-in-touch) {
+    margin-top: 79.47px;
+  }
+  .relationship-driven .rd-video {
+    top: 79.47px;
+  }
+  .text-12 {
+    font-size: 2.3rem;
+  }
+  .featured-slider .featured-content {
+    bottom: -22.5rem;
+  }
+}
